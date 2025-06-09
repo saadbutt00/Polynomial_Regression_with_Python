@@ -113,5 +113,3 @@ if num_features:
             r2 = 1 - (r2_1 / r2_2 + 1e-10)
 
             st.info(f"📈 R² Score: `{np.round(r2 * 100, 2)}%`")
-
-# streamlit run "f:/ML_with_Python/Polynomial Regression/app.py"

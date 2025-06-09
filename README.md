@@ -2,7 +2,7 @@
 
 I first created python script that only takes values for features & give prediction but without storing data.
 
-### 🧠 Linear Regression Web App (Streamlit)
+### 🧠 Polynomial Regression Web App (Streamlit)
 
 In Streamlit app, I ended this problem & let users **train a custom polynomial regression model** with one or more features.
 Users can enter feature names and values, train the model with a specified bias, and make real-time predictions.
